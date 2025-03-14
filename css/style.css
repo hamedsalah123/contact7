@@ -1,0 +1,105 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@200..1000&family=Cairo:wght@200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Cairo", serif;
+}
+.hero{
+    height: 600px;
+    width: 100%;
+    background-image: url("../images/hero-bg.png");
+    background-position:center left ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.hero .vbn{
+    padding-left: 20%;
+    padding-top:20%;
+}
+.imgbox img{
+    width: 100px;
+   margin-left: auto;
+   padding-top: 20%;
+}
+.box{
+    text-align: center;
+}
+.ouerservices h1{
+    text-align: center;
+}
+.about .fgh{
+    width: 300px;
+}
+.about h1{
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+}
+.about{
+    height: 600px;
+    width: 100%;
+    background-image: url("../images/hero-bg.png");
+    background-position:center left ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(8, 110, 71);
+}
+.img img{
+    width: 100px;
+    padding-left: 50px;
+    text-align: center;
+}
+.contact h1{
+    text-align: center;
+    padding-top: 10%;
+    margin-top: 20px;
+}
+.time{
+    padding-bottom: 12px;
+    width: 100%;
+    background-image: url("../images/hero-bg.png");
+    background-position:center left ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form{
+    margin-top: 12%;  
+    background: darkgray;
+}
+.form h1{
+    text-align: center;
+    margin-bottom: 12px;
+    padding-top: 12px;
+}
+.body{
+    text-align: center;
+    font-size: 22px;
+}
+.socil{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.card-body{
+    text-align: center;
+}
+footer{
+    margin-top: 12%;
+    height: 500px;
+    width: 100%;
+    background-image: url("../images/hero-bg.png");
+    background-position: center left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+footer li{
+    list-style: none;
+}
+footer a{
+    text-decoration: none;
+    color: grey;
+    font-size: 22px;
+}
